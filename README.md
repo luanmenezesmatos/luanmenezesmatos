@@ -7,11 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanmenezesmatos/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanmenezesmatosl/)
 
 ## O que faço atualmente?
-
-- 📖 Estou cursando o **3º ano do Ensino Médio, no período da Manhã**
-- 🔭 Finalizei recentemente na instituição **[Senac São Paulo](https://www.linkedin.com/school/senacsaopaulo/)** o curso de **Técnico de Informática** — (set-2022 até mar-2024)
-- 💻 Aproveito para programar e compartilhar conhecimento com outras pessoas
-- 🤍 Sou apaixonado por escrever códigos e aprender novos recursos, além de novas ferramentas, etc.
+- 👨🏻‍🎓 Finalizei recentemente na instituição **[Senac São Paulo](https://www.linkedin.com/school/senacsaopaulo/)** o curso de **Técnico de Informática** — (set-2022 até mar-2024)
+- 👨🏻‍💻 Aproveito para programar e compartilhar conhecimento com outras pessoas
+- 📖 Sou apaixonado por escrever códigos e aprender novos recursos, além de novas ferramentas, etc.
 
 ## Principais tecnologias que utilizo no dia a dia
 ### Linguagens e Frameworks

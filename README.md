@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luan Menezes 🤚🏻
 
-🚀 Me interessei pela área da programação desde muito jovem, com 12 anos de idade. Atualmente, com 17 anos de idade, estudo diariamente para conseguir minha primeira oportunidade na área de programação. Venho desenvolvendo projetos para colocar em prática meu conhecimento e tenho certeza de que estou pronto para somar em uma equipe de programadores. Tenho facilidade de aprendizado e muito interesse, uma boa comunicação e busco melhorar cada vez mais.
+🚀 Me interessei pela área da programação desde muito jovem, com 12 anos de idade. Atualmente, com 18 anos de idade, estudo diariamente para conseguir minha primeira oportunidade na área de programação. Venho desenvolvendo projetos para colocar em prática meu conhecimento e tenho certeza de que estou pronto para somar em uma equipe de programadores. Tenho facilidade de aprendizado e muito interesse, uma boa comunicação e busco melhorar cada vez mais.
 
 **📫 Me contate nas redes sociais abaixo:**
 
